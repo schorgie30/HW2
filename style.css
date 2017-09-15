@@ -1,0 +1,36 @@
+body {
+	background-color: lightblue;
+	padding: 75px;
+	border:5px solid green;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin:auto;
+}
+
+#resume_div {
+	text-align: left;
+}
+
+#welcome {
+	color: purple;
+}
+
+#profile_pic {
+	display: block;
+	margin: auto;
+	border: 10px solid;
+}
+
+.resume_heading {
+	text-align: center;
+}
+
+#click_here {
+	text-align: center;
+}
